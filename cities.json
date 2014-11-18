@@ -2795,6 +2795,14 @@
                         "right": "-66.663"
                     }
                 },
+                "cumana_venezuela": {
+                    "bbox": {
+                        "top": "10.4825",
+                        "left": "-64.2211",
+                        "bottom": "10.4072",
+                        "right": "-64.0863"
+                    }
+                },
                 "campo-grande_brazil": {
                     "bbox": {
                         "top": "-20.352",
